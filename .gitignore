@@ -27,7 +27,7 @@ node_modules
 
 # User data
 /data
-.env
+# .env
 
 # Dist folder
 dist/*
